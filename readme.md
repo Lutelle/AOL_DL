@@ -24,6 +24,6 @@ Gunakan Streamlit untuk menjalankan antarmuka web yang dapat mendemonstrasikan m
 1.  Pastikan folder `outputs/models` berisi *checkpoint* model yang sudah terlatih.
 2.  Jalankan perintah berikut di terminal:
 
-    streamlit run app/app.py
+    streamlit run app.py
 
 3.  Aplikasi akan terbuka di *browser* Anda (biasanya di `http://localhost:8501`). Tekan tombol **"Generate Wajah Baru"** untuk melihat hasil sintesis.
