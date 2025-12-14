@@ -27,3 +27,6 @@ Gunakan Streamlit untuk menjalankan antarmuka web yang dapat mendemonstrasikan m
     streamlit run app.py
 
 3.  Aplikasi akan terbuka di *browser* Anda (biasanya di `http://localhost:8501`). Tekan tombol **"Generate Wajah Baru"** untuk melihat hasil sintesis.
+
+## Final Report dan Demo
+    Final Report dan Video Demo ada di report/
